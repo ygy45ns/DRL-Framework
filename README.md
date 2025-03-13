@@ -19,7 +19,8 @@
 ```
 DRL-Framework/
 ├── algorithms/
-|	├──actor_critic/          # Actor-Critic Algorithm implementation
+|  |
+|  ├──actor_critic/          # Actor-Critic Algorithm implementation
 │  |	├── a2c.py             # Advantage Actor-Critic
 │  |	├── ppo.py             # Proximal Policy Optimization
 │  |	├── sac.py             # Soft Actor-Critic
