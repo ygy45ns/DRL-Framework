@@ -1,0 +1,26 @@
+# environment
+env_name: 'CartPole-v1'
+max_episode_steps: 400
+state_dim: None
+action_dim: None
+dvc: 'cuda'
+
+# algorithm
+name: 'SAC'
+hidden_shape: [ 128,128 ]
+lr: 0.0001
+gamma: 0.99
+adaptive_alpha: True
+batch_size: 128
+alpha: 0.2
+
+# log
+seed: 123
+test_num: 4
+
+total_steps: 200000
+train_steps: 50
+save_steps: 100000
+test_steps: 2000
+
+checkpoint_path: './model'
