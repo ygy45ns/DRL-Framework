@@ -20,10 +20,10 @@
 DRL-Framework/
 ├── algorithms/
 |	├──actor_critic/          # Actor-Critic Algorithm implementation
-│   |	├── a2c.py             # Advantage Actor-Critic
-│   |	├── ppo.py             # Proximal Policy Optimization
-│   |	├── sac.py             # Soft Actor-Critic
-│   |	└── ac.py              # Actor-Critic
+│  |	├── a2c.py             # Advantage Actor-Critic
+│  |	├── ppo.py             # Proximal Policy Optimization
+│  |	├── sac.py             # Soft Actor-Critic
+│  |	└── ac.py              # Actor-Critic
 |	└── value_based/           # Value-Based Algorithm implementation
 │   	├── dqn.py             # Deep Q-Network
 │   	└── ddqn.py            # Double DQN
