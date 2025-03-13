@@ -24,7 +24,8 @@ DRL-Framework/
 │  |	├── ppo.py             # Proximal Policy Optimization
 │  |	├── sac.py             # Soft Actor-Critic
 │  |	└── ac.py              # Actor-Critic
-|	└── value_based/           # Value-Based Algorithm implementation
+|  |
+|  └── value_based/           # Value-Based Algorithm implementation
 │   	├── dqn.py             # Deep Q-Network
 │   	└── ddqn.py            # Double DQN
 |
