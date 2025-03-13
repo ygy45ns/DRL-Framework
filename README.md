@@ -1,7 +1,7 @@
 # DRL Framework
 
 ## 📌 Introduction
-**DRL Framework** is a deep reinforcement learning (DRL) framework that implements multiple popular DRL algorithms. It supports **Actor Critic-based ** and **Value-based** algorithms, with configuration files and runnable scripts to help users quickly get started and extend the framework.
+**DRL Framework** is a deep reinforcement learning (DRL) framework that implements multiple popular DRL algorithms. It supports **Actor Critic-based** and **Value-based** algorithms, with configuration files and runnable scripts to help users quickly get started and extend the framework.
 
 ## 🚀 Supported Algorithms
 ### 1️⃣ **Actor Critic-Based Methods**
